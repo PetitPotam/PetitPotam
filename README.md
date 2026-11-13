@@ -9,4 +9,3 @@ Minecraft, talks with you, helps you play and remembers you. Mostly I'm learning
 feelings, a voice, and a lot of trial and error.
 
 - **Working on:** [Kindred Spirit](https://kindred-spirit-pip.web.app)
-- **Fun fact:** I'd rather watch speedrunners than speedrun.
